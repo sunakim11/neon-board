@@ -1,0 +1,58 @@
+name: alerts
+# 역할: ① 감시 프로그램이 push 한 alerts.json 의 critical 알림을 GitHub 이슈로 열고(→ 메일), 해제되면 닫는다.
+#       ② 10분마다 status.json 의 갱신 시각을 보고 20분 넘게 멈춰 있으면 "[중단]" 이슈를 연다(프로그램/PC 사망 감지).
+# 이슈는 github-actions 봇이 만들므로 저장소 소유자에게 알림 메일이 간다(본인이 만든 이슈는 메일이 안 오기 때문에 이 구조).
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+concurrency:
+  group: alerts
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const read = f => { try { return JSON.parse(fs.readFileSync(f, 'utf8')); } catch { return null; } };
+            const status = read('status.json') || {};
+            const alerts = read('alerts.json') || { active: [] };
+            const STALE_MIN = 20;
+            const now = Date.now();
+            const active = [...(alerts.active || [])];
+            const updated = status.updatedAt ? Date.parse(status.updatedAt) : 0;
+            const ageMin = updated ? Math.round((now - updated) / 60000) : null;
+            if (!updated || ageMin > STALE_MIN) {
+              active.push({ key: 'stale', title: '[중단] 현황판 갱신이 ' + (ageMin ?? '?') + '분째 없음 — 감시 프로그램/PC/인터넷 확인 필요', since: status.updatedAt || null, detail: '마지막 갱신 ' + (status.updatedAt || '없음') + ' · 모드 ' + (status.mode || '?') + ' · cycle ' + (status.cycle ?? '?') });
+            }
+            core.info(`status age=${ageMin}min mode=${status.mode} active=${active.map(a => a.key).join(',') || 'none'}`);
+            const { owner, repo } = context.repo;
+            try { await github.rest.issues.createLabel({ owner, repo, name: 'alert', color: 'd73a4a', description: '감시 프로그램 critical 알림' }); } catch {}
+            const open = await github.paginate(github.rest.issues.listForRepo, { owner, repo, state: 'open', labels: 'alert', per_page: 100 });
+            const keyOf = i => (i.title.match(/^\[(.+?)\]/) || [])[0] + '|' + (i.body || '').match(/key: (\S+)/)?.[1];
+            const openByKey = {}; for (const i of open) { const k = (i.body || '').match(/key: (\S+)/)?.[1]; if (k) openByKey[k] = i; }
+            for (const a of active) {
+              if (openByKey[a.key]) { continue; }
+              const body = `key: ${a.key}\n\n발생: ${a.since || '알 수 없음'}\n\n${a.detail || ''}\n\n---\n자동 생성(감시 프로그램 알림). 복구되면 자동으로 닫힙니다. 현황판: https://${owner}.github.io/${repo}/`;
+              await github.rest.issues.create({ owner, repo, title: a.title, body, labels: ['alert'] });
+              core.info('issue created: ' + a.key);
+            }
+            const activeKeys = new Set(active.map(a => a.key));
+            for (const [k, i] of Object.entries(openByKey)) {
+              if (activeKeys.has(k)) continue;
+              await github.rest.issues.createComment({ owner, repo, issue_number: i.number, body: `복구됨 (${new Date().toISOString()}). 자동 종료.` });
+              await github.rest.issues.update({ owner, repo, issue_number: i.number, state: 'closed' });
+              core.info('issue closed: ' + k);
+            }
