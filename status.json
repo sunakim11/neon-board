@@ -1,8 +1,32 @@
 {
- "updatedAt": "2026-11-06T12:24:29.796Z",
- "generatedAt": "11. 6. 오후 09:14",
- "snapshot": "2026-11-06_2105_auto-refresh",
- "mode": "manual",
- "cycle": 0,
- "note": "초기 게시(수동)"
+ "updatedAt": "2026-11-06T12:34:30.188Z",
+ "generatedAt": "11. 6. 오후 09:34",
+ "snapshot": "2026-11-06_2132_monitor",
+ "mode": "dry-run",
+ "cycle": 1,
+ "intervalMin": 5,
+ "hot": [
+  {
+   "label": "11-07(토) 15:00",
+   "total": 23,
+   "cap": 24,
+   "openN": [
+    "키티 빼빼로 휘낭시에"
+   ],
+   "openS": []
+  },
+  {
+   "label": "11-10(화) 19:00",
+   "total": 21,
+   "cap": 24,
+   "openN": [
+    "키티 빼빼로 휘낭시에"
+   ],
+   "openS": []
+  }
+ ],
+ "lastCycleOk": true,
+ "lastError": null,
+ "lastActions": null,
+ "durationSec": 119
 }
