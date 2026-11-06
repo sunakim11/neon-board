@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-06T19:24:10.172Z",
+ "updatedAt": "2026-11-06T19:30:47.125Z",
  "generatedAt": "11. 7. 오전 04:18",
  "snapshot": "2026-11-07_0416_monitor",
  "mode": "execute",
- "cycle": 60,
+ "cycle": 61,
  "intervalMin": 5,
  "hot": [
   {
@@ -24,6 +24,6 @@
    "openS": []
   }
  ],
- "lastError": "  log: [\r |     '  - navigating to \"https://partner.booking.naver.com/bizes/1383645/biz-items\", waiting until \"domcontentloaded\"'\r |   ],\r |   name: 'TimeoutError'\r | }\r | Node.js v24.19.0\r",
+ "lastError": "데몬 브라우저가 20초 안에 뜨지 않음",
  "lastCycleOk": false
 }
