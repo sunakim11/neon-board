@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T07:04:36.469Z",
- "generatedAt": "11. 7. 오후 04:04",
- "snapshot": "2026-11-07_1602_monitor",
+ "updatedAt": "2026-11-07T07:11:50.429Z",
+ "generatedAt": "11. 7. 오후 04:11",
+ "snapshot": "2026-11-07_1609_monitor",
  "mode": "execute",
- "cycle": 157,
+ "cycle": 158,
  "intervalMin": 5,
  "hot": [
   {
@@ -11,7 +11,9 @@
    "total": 23,
    "cap": 24,
    "openN": [],
-   "openS": []
+   "openS": [
+    "빼빼로휘낭시에"
+   ]
   },
   {
    "label": "11-10(화) 19:00",
@@ -27,5 +29,5 @@
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "durationSec": 135
+ "durationSec": 131
 }
