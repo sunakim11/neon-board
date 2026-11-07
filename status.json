@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T16:18:32.797Z",
- "generatedAt": "11. 8. 오전 01:10",
- "snapshot": "2026-11-08_0108_monitor",
+ "updatedAt": "2026-11-07T16:25:42.798Z",
+ "generatedAt": "11. 8. 오전 01:25",
+ "snapshot": "2026-11-08_0123_monitor",
  "mode": "execute",
- "cycle": 228,
+ "cycle": 229,
  "intervalMin": 5,
  "hot": [
   {
@@ -27,6 +27,25 @@
    "openS": []
   }
  ],
- "lastError": "  log: [\r |     '  - navigating to \"https://www.sssd.co.kr/host/home/main.do\", waiting until \"domcontentloaded\"'\r |   ],\r |   name: 'TimeoutError'\r | }\r | Node.js v24.19.0\r",
- "lastCycleOk": false
+ "lastCycleOk": true,
+ "lastError": null,
+ "lastActions": null,
+ "lastCapacity": {
+  "mode": "dry-run",
+  "count": 10,
+  "items": [
+   "네이버 2026-11-08 13:00 70분 기념일빼낭시에 1인 정원 20→17 (잔여 13)",
+   "네이버 2026-11-08 13:00 70분 감성 휘낭시에 1인 정원 20→13 (잔여 13)",
+   "네이버 2026-11-08 13:00 70분 봄꽃곰돌이 마들렌 1인 정원 20→13 (잔여 13)",
+   "네이버 2026-11-08 13:00 80분 키티 빼빼로 휘낭시에 정원 20→18 (잔여 13)",
+   "네이버 2026-11-08 13:00 가을저격 키티 마들렌(11월 추천) 정원 20→13 (잔여 13)",
+   "네이버 2026-11-08 15:00 70분 기념일빼낭시에 1인 정원 20→12 (잔여 6)",
+   "네이버 2026-11-08 15:00 70분 감성 휘낭시에 1인 정원 20→6 (잔여 6)",
+   "네이버 2026-11-08 15:00 70분 봄꽃곰돌이 마들렌 1인 정원 20→6 (잔여 6)",
+   "네이버 2026-11-08 15:00 80분 키티 빼빼로 휘낭시에 정원 20→10 (잔여 6)",
+   "네이버 2026-11-08 15:00 가을저격 키티 마들렌(11월 추천) 정원 20→6 (잔여 6)"
+  ]
+ },
+ "capacityMode": "dry-run",
+ "durationSec": 114
 }
