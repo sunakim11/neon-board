@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T16:10:55.683Z",
+ "updatedAt": "2026-11-07T16:18:32.797Z",
  "generatedAt": "11. 8. 오전 01:10",
  "snapshot": "2026-11-08_0108_monitor",
  "mode": "execute",
- "cycle": 227,
+ "cycle": 228,
  "intervalMin": 5,
  "hot": [
   {
@@ -27,8 +27,6 @@
    "openS": []
   }
  ],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "durationSec": 150
+ "lastError": "  log: [\r |     '  - navigating to \"https://www.sssd.co.kr/host/home/main.do\", waiting until \"domcontentloaded\"'\r |   ],\r |   name: 'TimeoutError'\r | }\r | Node.js v24.19.0\r",
+ "lastCycleOk": false
 }
