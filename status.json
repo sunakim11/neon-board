@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T07:19:06.188Z",
- "generatedAt": "11. 7. 오후 04:19",
- "snapshot": "2026-11-07_1616_monitor",
+ "updatedAt": "2026-11-07T07:26:16.046Z",
+ "generatedAt": "11. 7. 오후 04:26",
+ "snapshot": "2026-11-07_1624_monitor",
  "mode": "execute",
- "cycle": 159,
+ "cycle": 160,
  "intervalMin": 5,
  "hot": [
   {
@@ -12,7 +12,8 @@
    "cap": 24,
    "openN": [],
    "openS": [
-    "빼빼로휘낭시에"
+    "빼빼로휘낭시에",
+    "빼빼로 휘낭시에"
    ]
   },
   {
@@ -29,5 +30,5 @@
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "durationSec": 133
+ "durationSec": 127
 }
