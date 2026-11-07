@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-07T08:56:11.745Z",
- "generatedAt": "11. 7. 오후 05:56",
- "snapshot": "2026-11-07_1754_monitor",
+ "updatedAt": "2026-11-07T09:16:18.371Z",
+ "generatedAt": "11. 7. 오후 06:07",
+ "snapshot": "2026-11-07_1805_auto-refresh",
  "mode": "execute",
- "cycle": 172,
+ "cycle": 173,
  "intervalMin": 5,
  "hot": [
   {
@@ -27,8 +27,6 @@
    "openS": []
   }
  ],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "durationSec": 125
+ "lastError": "→ C:\\Users\\김선아\\Desktop\\neon\\data\\snapshots\\2026-11-07_1801_monitor | [감정선프로젝트베이킹 잠실송리단길점] 상품 21개",
+ "lastCycleOk": false
 }
