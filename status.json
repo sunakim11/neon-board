@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T07:08:29.041Z",
- "generatedAt": "11. 8. 오후 04:08",
- "snapshot": "2026-11-08_1606_monitor",
+ "updatedAt": "2026-11-08T07:15:25.573Z",
+ "generatedAt": "11. 8. 오후 04:15",
+ "snapshot": "2026-11-08_1613_monitor",
  "mode": "execute",
- "cycle": 356,
+ "cycle": 357,
  "intervalMin": 5,
  "hot": [
   {
@@ -27,7 +27,10 @@
     "키티 빼빼로 휘낭시에",
     "가을저격 키티 마들렌"
    ],
-   "openS": []
+   "openS": [
+    "빼빼로휘낭시에",
+    "감성 휘낭시에"
+   ]
   },
   {
    "label": "11-10(화) 19:00",
@@ -45,5 +48,5 @@
  "lastActions": null,
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 115
+ "durationSec": 114
 }
