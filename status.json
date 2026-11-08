@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T12:44:56.304Z",
+ "updatedAt": "2026-11-08T12:50:19.749Z",
  "generatedAt": "11. 8. 오후 09:39",
  "snapshot": "2026-11-08_2137_monitor",
  "mode": "execute",
- "cycle": 403,
+ "cycle": 404,
  "intervalMin": 5,
  "hot": [
   {
@@ -51,22 +51,6 @@
    "openS": []
   }
  ],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 4,
-  "ok": null,
-  "skipped": null,
-  "failed": null,
-  "items": [
-   "네이버 2026-11-11 17:00 70분 기념일빼낭시에 1인 정원 11→10 (잔여 10)",
-   "네이버 2026-11-11 17:00 70분 감성 휘낭시에 1인 정원 11→10 (잔여 10)",
-   "네이버 2026-11-11 17:00 70분 봄꽃곰돌이 마들렌 1인 정원 11→10 (잔여 10)",
-   "네이버 2026-11-11 17:00 가을저격 키티 마들렌(11월 추천) 정원 11→10 (잔여 10)"
-  ]
- },
- "capacityMode": "execute",
- "durationSec": 418
+ "lastError": "          ^\r | Error: 브라우저 데몬에 접속할 수 없습니다 (http://127.0.0.1:9222). 먼저 터미널에서  node src/browser.mjs  를 실행해 창을 켜두세요.\r |     at connectBrowser (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/lib/browser.mjs:62:11)\r |     at async fetchNaver (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/De",
+ "lastCycleOk": false
 }
