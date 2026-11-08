@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T07:15:25.573Z",
- "generatedAt": "11. 8. 오후 04:15",
- "snapshot": "2026-11-08_1613_monitor",
+ "updatedAt": "2026-11-08T07:22:21.929Z",
+ "generatedAt": "11. 8. 오후 04:22",
+ "snapshot": "2026-11-08_1620_monitor",
  "mode": "execute",
- "cycle": 357,
+ "cycle": 358,
  "intervalMin": 5,
  "hot": [
   {
@@ -29,6 +29,7 @@
    ],
    "openS": [
     "빼빼로휘낭시에",
+    "빼빼로 휘낭시에",
     "감성 휘낭시에"
    ]
   },
