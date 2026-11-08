@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T09:21:52.071Z",
- "generatedAt": "11. 8. 오후 06:21",
- "snapshot": "2026-11-08_1819_monitor",
+ "updatedAt": "2026-11-08T09:29:06.170Z",
+ "generatedAt": "11. 8. 오후 06:28",
+ "snapshot": "2026-11-08_1826_monitor",
  "mode": "execute",
- "cycle": 375,
+ "cycle": 376,
  "intervalMin": 5,
  "hot": [
   {
@@ -47,7 +47,19 @@
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 4,
+  "ok": 4,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-11 15:00 70분 기념일빼낭시에 1인 정원 13→12 (잔여 11)",
+   "네이버 2026-11-11 15:00 70분 감성 휘낭시에 1인 정원 12→11 (잔여 11)",
+   "네이버 2026-11-11 15:00 70분 봄꽃곰돌이 마들렌 1인 정원 12→11 (잔여 11)",
+   "네이버 2026-11-11 15:00 가을저격 키티 마들렌(11월 추천) 정원 13→12 (잔여 11)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 116
+ "durationSec": 132
 }
