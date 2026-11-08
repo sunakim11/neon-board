@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-08T05:16:39.402Z",
- "generatedAt": "11. 8. 오후 02:16",
- "snapshot": "2026-11-08_1414_monitor",
+ "updatedAt": "2026-11-08T05:23:58.564Z",
+ "generatedAt": "11. 8. 오후 02:23",
+ "snapshot": "2026-11-08_1421_monitor",
  "mode": "execute",
- "cycle": 340,
+ "cycle": 341,
  "intervalMin": 5,
  "hot": [
   {
@@ -43,7 +43,21 @@
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 6,
+  "ok": 6,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-10 20:30 70분 기념일빼낭시에 1인 정원 17→16 (잔여 15)",
+   "네이버 2026-11-10 20:30 70분 감성 휘낭시에 1인 정원 16→15 (잔여 15)",
+   "네이버 2026-11-10 20:30 가을저격 키티 마들렌(11월 추천) 정원 16→15 (잔여 15)",
+   "솜씨당 2026-11-10 20:30 [송파] 빼빼로 휘낭시에 6pc 빼빼로데이&기념일 선물 준비하기 16→15 (잔여 15)",
+   "솜씨당 2026-11-10 20:30 [잠실] 곰돌이마들렌 6PC , 가을데이트 추천 16→15 (잔여 15)",
+   "솜씨당 2026-11-10 20:30 [잠실] 감성 휘낭시에 6pc, 내맘대로 꾸미는 베이킹클래스 16→15 (잔여 15)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 113
+ "durationSec": 137
 }
