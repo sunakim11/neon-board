@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-09T08:58:10.500Z",
- "generatedAt": "11. 9. 오후 05:57",
- "snapshot": "2026-11-09_1755_monitor",
+ "updatedAt": "2026-11-09T09:05:21.616Z",
+ "generatedAt": "11. 9. 오후 06:05",
+ "snapshot": "2026-11-09_1803_monitor",
  "mode": "execute",
- "cycle": 581,
+ "cycle": 582,
  "intervalMin": 5,
  "hot": [
   {
@@ -89,18 +89,7 @@
    "네이버 2026-11-09 19:00 80분 키티 빼빼로 휘낭시에"
   ]
  },
- "lastCapacity": {
-  "mode": "execute",
-  "count": 3,
-  "ok": 3,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-09 20:30 70분 감성 휘낭시에 1인 정원 20→18 (잔여 18)",
-   "네이버 2026-11-09 20:30 80분 키티 빼빼로 휘낭시에 정원 20→18 (잔여 18)",
-   "네이버 2026-11-09 20:30 가을저격 키티 마들렌(11월 추천) 정원 20→18 (잔여 18)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 141
+ "durationSec": 128
 }
