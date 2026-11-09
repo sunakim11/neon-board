@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-09T10:02:39.995Z",
- "generatedAt": "11. 9. 오후 07:02",
- "snapshot": "2026-11-09_1900_monitor",
+ "updatedAt": "2026-11-09T10:09:52.665Z",
+ "generatedAt": "11. 9. 오후 07:09",
+ "snapshot": "2026-11-09_1907_monitor",
  "mode": "execute",
- "cycle": 590,
+ "cycle": 591,
  "intervalMin": 5,
  "hot": [
   {
@@ -78,7 +78,17 @@
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 2,
+  "ok": 2,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-09 20:30 70분 감성 휘낭시에 1인 정원 16→15 (잔여 15)",
+   "네이버 2026-11-09 20:30 가을저격 키티 마들렌(11월 추천) 정원 16→15 (잔여 15)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 126
+ "durationSec": 130
 }
