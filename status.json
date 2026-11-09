@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-09T11:58:42.023Z",
- "generatedAt": "11. 9. 오후 08:58",
- "snapshot": "2026-11-09_2056_monitor",
+ "updatedAt": "2026-11-09T12:06:16.036Z",
+ "generatedAt": "11. 9. 오후 09:05",
+ "snapshot": "2026-11-09_2103_monitor",
  "mode": "execute",
- "cycle": 606,
+ "cycle": 607,
  "intervalMin": 5,
  "hot": [
   {
@@ -90,7 +90,21 @@
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 6,
+  "ok": 6,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-11 13:00 70분 기념일빼낭시에 1인 정원 11→10 (잔여 9)",
+   "네이버 2026-11-11 13:00 70분 감성 휘낭시에 1인 정원 10→9 (잔여 9)",
+   "네이버 2026-11-11 13:00 70분 봄꽃곰돌이 마들렌 1인 정원 10→9 (잔여 9)",
+   "네이버 2026-11-11 13:00 80분 키티 빼빼로 휘낭시에 정원 19→18 (잔여 9)",
+   "네이버 2026-11-11 13:00 가을저격 키티 마들렌(11월 추천) 정원 10→9 (잔여 9)",
+   "솜씨당 2026-11-11 13:00 [잠실] 곰돌이마들렌 6PC , 가을데이트 추천 10→9 (잔여 9)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 121
+ "durationSec": 152
 }
