@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T02:11:12.613Z",
- "generatedAt": "11. 10. 오전 11:11",
- "snapshot": "2026-11-10_1108_monitor",
+ "updatedAt": "2026-11-10T02:18:22.243Z",
+ "generatedAt": "11. 10. 오전 11:18",
+ "snapshot": "2026-11-10_1116_monitor",
  "mode": "execute",
- "cycle": 724,
+ "cycle": 725,
  "intervalMin": 5,
  "hot": [
   {
@@ -75,7 +75,10 @@
    "label": "11-10(화) 19:00",
    "total": 22,
    "cap": 24,
-   "openN": [],
+   "openN": [
+    "기념일빼낭시에",
+    "키티 빼빼로 휘낭시에"
+   ],
    "openS": []
   },
   {
@@ -105,5 +108,5 @@
  "lastActions": null,
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 137
+ "durationSec": 127
 }
