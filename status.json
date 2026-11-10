@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T04:21:17.171Z",
- "generatedAt": "11. 10. 오후 01:21",
- "snapshot": "2026-11-10_1319_monitor",
+ "updatedAt": "2026-11-10T04:28:39.161Z",
+ "generatedAt": "11. 10. 오후 01:28",
+ "snapshot": "2026-11-10_1326_monitor",
  "mode": "execute",
- "cycle": 742,
+ "cycle": 743,
  "intervalMin": 5,
  "hot": [
   {
@@ -68,7 +68,7 @@
   },
   {
    "label": "11-10(화) 19:00",
-   "total": 22,
+   "total": 24,
    "cap": 24,
    "openN": [
     "기념일빼낭시에",
@@ -100,8 +100,18 @@
  ],
  "lastCycleOk": true,
  "lastError": null,
- "lastActions": null,
+ "lastActions": {
+  "mode": "execute",
+  "count": 2,
+  "ok": 2,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-10 19:00 70분 기념일빼낭시에 1인",
+   "네이버 2026-11-10 19:00 80분 키티 빼빼로 휘낭시에"
+  ]
+ },
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 128
+ "durationSec": 139
 }
