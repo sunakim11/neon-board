@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T12:03:00.861Z",
- "generatedAt": "11. 10. 오후 09:02",
- "snapshot": "2026-11-10_2100_monitor",
+ "updatedAt": "2026-11-10T12:10:18.438Z",
+ "generatedAt": "11. 10. 오후 09:10",
+ "snapshot": "2026-11-10_2108_monitor",
  "mode": "execute",
- "cycle": 805,
+ "cycle": 806,
  "intervalMin": 5,
  "hot": [
   {
@@ -102,7 +102,6 @@
    "openS": [
     "빼빼로휘낭시에",
     "빼빼로 휘낭시에",
-    "감성 휘낭시에",
     "곰돌이마들렌"
    ]
   },
@@ -137,5 +136,5 @@
  },
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 137
+ "durationSec": 134
 }
