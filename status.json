@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T12:48:02.276Z",
- "generatedAt": "11. 10. 오후 09:47",
- "snapshot": "2026-11-10_2145_monitor",
+ "updatedAt": "2026-11-10T12:55:33.225Z",
+ "generatedAt": "11. 10. 오후 09:55",
+ "snapshot": "2026-11-10_2153_monitor",
  "mode": "execute",
- "cycle": 811,
+ "cycle": 812,
  "intervalMin": 5,
  "hot": [
   {
@@ -87,6 +87,7 @@
    "cap": 24,
    "openN": [],
    "openS": [
+    "빼빼로 휘낭시에",
     "감성 휘낭시에",
     "빼빼로휘낭시에"
    ]
@@ -119,17 +120,18 @@
  "lastError": null,
  "lastActions": {
   "mode": "execute",
-  "count": 3,
-  "ok": 0,
+  "count": 4,
+  "ok": 1,
   "skipped": 3,
   "failed": 0,
   "items": [
    "솜씨당 2026-11-10 19:00 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능)",
+   "솜씨당 2026-11-10 20:30 [송파] 빼빼로 휘낭시에 6pc 빼빼로데이&기념일 선물 준비하기",
    "솜씨당 2026-11-10 20:30 [잠실] 감성 휘낭시에 6pc, 내맘대로 꾸미는 베이킹클래스",
    "솜씨당 2026-11-10 20:30 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능)"
   ]
  },
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 140
+ "durationSec": 148
 }
