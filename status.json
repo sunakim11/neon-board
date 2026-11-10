@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T02:03:53.253Z",
- "generatedAt": "11. 10. 오전 11:03",
- "snapshot": "2026-11-10_1101_monitor",
+ "updatedAt": "2026-11-10T02:11:12.613Z",
+ "generatedAt": "11. 10. 오전 11:11",
+ "snapshot": "2026-11-10_1108_monitor",
  "mode": "execute",
- "cycle": 723,
+ "cycle": 724,
  "intervalMin": 5,
  "hot": [
   {
@@ -73,15 +73,10 @@
   },
   {
    "label": "11-10(화) 19:00",
-   "total": 24,
+   "total": 22,
    "cap": 24,
-   "openN": [
-    "기념일빼낭시에",
-    "키티 빼빼로 휘낭시에"
-   ],
-   "openS": [
-    "빼빼로 휘낭시에"
-   ]
+   "openN": [],
+   "openS": []
   },
   {
    "label": "11-10(화) 20:30",
@@ -107,19 +102,8 @@
  ],
  "lastCycleOk": true,
  "lastError": null,
- "lastActions": {
-  "mode": "execute",
-  "count": 3,
-  "ok": 3,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-10 19:00 70분 기념일빼낭시에 1인",
-   "네이버 2026-11-10 19:00 80분 키티 빼빼로 휘낭시에",
-   "솜씨당 2026-11-10 19:00 [송파] 빼빼로 휘낭시에 6pc 빼빼로데이&기념일 선물 준비하기"
-  ]
- },
+ "lastActions": null,
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 144
+ "durationSec": 137
 }
