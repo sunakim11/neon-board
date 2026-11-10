@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T04:28:39.161Z",
- "generatedAt": "11. 10. 오후 01:28",
- "snapshot": "2026-11-10_1326_monitor",
+ "updatedAt": "2026-11-10T04:35:56.789Z",
+ "generatedAt": "11. 10. 오후 01:35",
+ "snapshot": "2026-11-10_1333_monitor",
  "mode": "execute",
- "cycle": 743,
+ "cycle": 744,
  "intervalMin": 5,
  "hot": [
   {
@@ -70,10 +70,7 @@
    "label": "11-10(화) 19:00",
    "total": 24,
    "cap": 24,
-   "openN": [
-    "기념일빼낭시에",
-    "키티 빼빼로 휘낭시에"
-   ],
+   "openN": [],
    "openS": []
   },
   {
@@ -100,18 +97,17 @@
  ],
  "lastCycleOk": true,
  "lastError": null,
- "lastActions": {
+ "lastActions": null,
+ "lastCapacity": {
   "mode": "execute",
-  "count": 2,
-  "ok": 2,
+  "count": 1,
+  "ok": 1,
   "skipped": 0,
   "failed": 0,
   "items": [
-   "네이버 2026-11-10 19:00 70분 기념일빼낭시에 1인",
-   "네이버 2026-11-10 19:00 80분 키티 빼빼로 휘낭시에"
+   "솜씨당 2026-11-11 20:30 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능) 20→18 (잔여 16)"
   ]
  },
- "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 139
+ "durationSec": 135
 }
