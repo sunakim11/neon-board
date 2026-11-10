@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T01:56:26.540Z",
- "generatedAt": "11. 10. 오전 10:56",
- "snapshot": "2026-11-10_1054_monitor",
+ "updatedAt": "2026-11-10T02:03:53.253Z",
+ "generatedAt": "11. 10. 오전 11:03",
+ "snapshot": "2026-11-10_1101_monitor",
  "mode": "execute",
- "cycle": 722,
+ "cycle": 723,
  "intervalMin": 5,
  "hot": [
   {
@@ -55,12 +55,7 @@
     "키티 빼빼로 휘낭시에",
     "가을저격 키티 마들렌"
    ],
-   "openS": [
-    "빼빼로휘낭시에",
-    "빼빼로 휘낭시에",
-    "감성 휘낭시에",
-    "곰돌이마들렌"
-   ]
+   "openS": []
   },
   {
    "label": "11-10(화) 15:00",
@@ -78,7 +73,7 @@
   },
   {
    "label": "11-10(화) 19:00",
-   "total": 22,
+   "total": 24,
    "cap": 24,
    "openN": [
     "기념일빼낭시에",
@@ -112,8 +107,19 @@
  ],
  "lastCycleOk": true,
  "lastError": null,
- "lastActions": null,
+ "lastActions": {
+  "mode": "execute",
+  "count": 3,
+  "ok": 3,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-10 19:00 70분 기념일빼낭시에 1인",
+   "네이버 2026-11-10 19:00 80분 키티 빼빼로 휘낭시에",
+   "솜씨당 2026-11-10 19:00 [송파] 빼빼로 휘낭시에 6pc 빼빼로데이&기념일 선물 준비하기"
+  ]
+ },
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 128
+ "durationSec": 144
 }
