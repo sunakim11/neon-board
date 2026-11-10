@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T11:11:41.072Z",
- "generatedAt": "11. 10. 오후 08:11",
- "snapshot": "2026-11-10_2009_monitor",
+ "updatedAt": "2026-11-10T11:19:01.561Z",
+ "generatedAt": "11. 10. 오후 08:18",
+ "snapshot": "2026-11-10_2016_monitor",
  "mode": "execute",
- "cycle": 798,
+ "cycle": 799,
  "intervalMin": 5,
  "hot": [
   {
@@ -128,8 +128,8 @@
  "lastActions": {
   "mode": "execute",
   "count": 1,
-  "ok": 1,
-  "skipped": 0,
+  "ok": 0,
+  "skipped": 1,
   "failed": 0,
   "items": [
    "솜씨당 2026-11-10 19:00 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능)"
@@ -137,5 +137,5 @@
  },
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 147
+ "durationSec": 137
 }
