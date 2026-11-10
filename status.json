@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-10T01:42:03.613Z",
- "generatedAt": "11. 10. 오전 10:42",
- "snapshot": "2026-11-10_1039_monitor",
+ "updatedAt": "2026-11-10T01:49:15.565Z",
+ "generatedAt": "11. 10. 오전 10:49",
+ "snapshot": "2026-11-10_1047_monitor",
  "mode": "execute",
- "cycle": 720,
+ "cycle": 721,
  "intervalMin": 5,
  "hot": [
   {
@@ -67,11 +67,7 @@
    "total": 23,
    "cap": 24,
    "openN": [
-    "기념일빼낭시에",
-    "감성 휘낭시에",
-    "봄꽃곰돌이 마들렌",
-    "키티 빼빼로 휘낭시에",
-    "가을저격 키티 마들렌"
+    "기념일빼낭시에"
    ],
    "openS": [
     "빼빼로휘낭시에",
@@ -82,13 +78,15 @@
   },
   {
    "label": "11-10(화) 19:00",
-   "total": 21,
+   "total": 22,
    "cap": 24,
    "openN": [
     "기념일빼낭시에",
     "키티 빼빼로 휘낭시에"
    ],
-   "openS": []
+   "openS": [
+    "빼빼로 휘낭시에"
+   ]
   },
   {
    "label": "11-10(화) 20:30",
@@ -117,5 +115,5 @@
  "lastActions": null,
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 127
+ "durationSec": 129
 }
