@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-11T05:56:27.835Z",
- "generatedAt": "11. 11. 오후 02:56",
- "snapshot": "2026-11-11_1454_monitor",
+ "updatedAt": "2026-11-11T06:04:01.693Z",
+ "generatedAt": "11. 11. 오후 03:03",
+ "snapshot": "2026-11-11_1501_monitor",
  "mode": "execute",
- "cycle": 947,
+ "cycle": 948,
  "intervalMin": 5,
  "hot": [
   {
@@ -143,7 +143,16 @@
    "솜씨당 2026-11-11 13:00 [잠실] 감성 휘낭시에 6pc, 내맘대로 꾸미는 베이킹클래스"
   ]
  },
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 1,
+  "ok": 1,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "솜씨당 2026-11-11 20:30 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능) 17→15 (잔여 4)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 149
+ "durationSec": 151
 }
