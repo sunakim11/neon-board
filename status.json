@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-11T05:26:23.369Z",
- "generatedAt": "11. 11. 오후 02:26",
- "snapshot": "2026-11-11_1423_monitor",
+ "updatedAt": "2026-11-11T05:33:54.634Z",
+ "generatedAt": "11. 11. 오후 02:33",
+ "snapshot": "2026-11-11_1431_monitor",
  "mode": "execute",
- "cycle": 943,
+ "cycle": 944,
  "intervalMin": 5,
  "hot": [
   {
@@ -143,16 +143,7 @@
    "솜씨당 2026-11-11 13:00 [잠실] 감성 휘낭시에 6pc, 내맘대로 꾸미는 베이킹클래스"
   ]
  },
- "lastCapacity": {
-  "mode": "execute",
-  "count": 1,
-  "ok": 1,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-11 18:00 (NEW) 키티 왁뿌 아그작 케이크 정원 12→11 (잔여 11)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 154
+ "durationSec": 149
 }
