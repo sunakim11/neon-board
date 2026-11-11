@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-11T03:28:41.027Z",
- "generatedAt": "11. 11. 오후 12:28",
- "snapshot": "2026-11-11_1226_monitor",
+ "updatedAt": "2026-11-11T03:36:13.518Z",
+ "generatedAt": "11. 11. 오후 12:35",
+ "snapshot": "2026-11-11_1233_monitor",
  "mode": "execute",
- "cycle": 928,
+ "cycle": 929,
  "intervalMin": 5,
  "hot": [
   {
@@ -138,7 +138,16 @@
    "솜씨당 2026-11-10 20:30 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능)"
   ]
  },
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 1,
+  "ok": 1,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "솜씨당 2026-11-11 20:30 [송파] 빼빼로 휘낭시에 6pc 빼빼로데이&기념일 선물 준비하기 16→14 (잔여 8)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 151
+ "durationSec": 150
 }
