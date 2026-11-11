@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-11T04:06:09.572Z",
- "generatedAt": "11. 11. 오후 01:05",
- "snapshot": "2026-11-11_1303_monitor",
+ "updatedAt": "2026-11-11T04:13:34.195Z",
+ "generatedAt": "11. 11. 오후 01:13",
+ "snapshot": "2026-11-11_1311_monitor",
  "mode": "execute",
- "cycle": 933,
+ "cycle": 934,
  "intervalMin": 5,
  "hot": [
   {
@@ -110,9 +110,7 @@
    "label": "11-11(수) 17:00",
    "total": 24,
    "cap": 24,
-   "openN": [
-    "키티 빼빼로 휘낭시에"
-   ],
+   "openN": [],
    "openS": []
   },
   {
@@ -127,12 +125,11 @@
  "lastError": null,
  "lastActions": {
   "mode": "execute",
-  "count": 5,
-  "ok": 1,
+  "count": 4,
+  "ok": 0,
   "skipped": 4,
   "failed": 0,
   "items": [
-   "네이버 2026-11-11 17:00 80분 키티 빼빼로 휘낭시에",
    "솜씨당 2026-11-10 19:00 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능)",
    "솜씨당 2026-11-10 20:30 [송파] 빼빼로 휘낭시에 6pc 빼빼로데이&기념일 선물 준비하기",
    "솜씨당 2026-11-10 20:30 [잠실] 감성 휘낭시에 6pc, 내맘대로 꾸미는 베이킹클래스",
@@ -141,5 +138,5 @@
  },
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 161
+ "durationSec": 142
 }
