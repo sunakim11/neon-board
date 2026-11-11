@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-11T23:26:16.994Z",
- "generatedAt": "11. 12. 오전 08:25",
- "snapshot": "2026-11-12_0823_monitor",
+ "updatedAt": "2026-11-11T23:34:12.655Z",
+ "generatedAt": "11. 12. 오전 08:33",
+ "snapshot": "2026-11-12_0831_monitor",
  "mode": "execute",
- "cycle": 1081,
+ "cycle": 1082,
  "intervalMin": 5,
  "hot": [
   {
@@ -174,7 +174,17 @@
    "솜씨당 2026-11-11 20:30 [잠실] 빼빼로휘낭시에 기념일데이트 추천(선물포장가능)"
   ]
  },
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 2,
+  "ok": 2,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-14 15:30 60분 케이크페인팅 1인 정원 30→26 (잔여 26)",
+   "네이버 2026-11-14 15:30 60분 커플 케이크페인팅 (2인) 정원 40→14 (잔여 26, 1단위=2명)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 163
+ "durationSec": 173
 }
