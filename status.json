@@ -1,24 +1,15 @@
 {
- "updatedAt": "2026-11-13T06:26:39.886Z",
- "generatedAt": "11. 13. 오후 03:26",
- "snapshot": "2026-11-13_1524_monitor",
+ "updatedAt": "2026-11-13T06:34:02.321Z",
+ "generatedAt": "11. 13. 오후 03:34",
+ "snapshot": "2026-11-13_1531_monitor",
  "mode": "execute",
- "cycle": 1327,
+ "cycle": 1328,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 1,
-  "ok": 1,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-20 18:00 (NEW) 키티 왁뿌 아그작 케이크 정원 12→3 (잔여 3)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 146
+ "durationSec": 139
 }
