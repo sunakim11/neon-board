@@ -1,25 +1,15 @@
 {
- "updatedAt": "2026-11-13T16:01:05.370Z",
- "generatedAt": "11. 14. 오전 01:00",
- "snapshot": "2026-11-14_0058_monitor",
+ "updatedAt": "2026-11-13T16:08:24.990Z",
+ "generatedAt": "11. 14. 오전 01:08",
+ "snapshot": "2026-11-14_0106_monitor",
  "mode": "execute",
- "cycle": 1405,
+ "cycle": 1406,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 2,
-  "ok": 2,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-15 14:00 (NEW) 키티 왁뿌 아그작 케이크 정원 12→11 (잔여 11)",
-   "네이버 2026-11-14 15:30 60분 커플 케이크페인팅 (2인) 정원 13→12 (잔여 21, 1단위=2명)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 147
+ "durationSec": 137
 }
