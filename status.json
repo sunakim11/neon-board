@@ -1,15 +1,25 @@
 {
- "updatedAt": "2026-11-13T05:05:12.170Z",
- "generatedAt": "11. 13. 오후 02:05",
- "snapshot": "2026-11-13_1402_monitor",
+ "updatedAt": "2026-11-13T05:12:46.081Z",
+ "generatedAt": "11. 13. 오후 02:12",
+ "snapshot": "2026-11-13_1410_monitor",
  "mode": "execute",
- "cycle": 1316,
+ "cycle": 1317,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 2,
+  "ok": 2,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-27 17:00 60분 케이크페인팅 1인 정원 40→28 (잔여 23)",
+   "네이버 2026-11-27 17:00 60분 커플 케이크페인팅 (2인) 정원 40→11 (잔여 23, 1단위=2명)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 141
+ "durationSec": 151
 }
