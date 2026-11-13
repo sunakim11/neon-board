@@ -1,24 +1,15 @@
 {
- "updatedAt": "2026-11-13T01:13:18.621Z",
- "generatedAt": "11. 13. 오전 10:13",
- "snapshot": "2026-11-13_1010_monitor",
+ "updatedAt": "2026-11-13T01:20:41.860Z",
+ "generatedAt": "11. 13. 오전 10:20",
+ "snapshot": "2026-11-13_1018_monitor",
  "mode": "execute",
- "cycle": 1285,
+ "cycle": 1286,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 1,
-  "ok": 1,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "솜씨당 2026-11-19 16:00 [잠실][송파] 왁뿌 아그작 케이크 1box 만들기 (여름데이트 추천) 10→1 (잔여 1)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 145
+ "durationSec": 141
 }
