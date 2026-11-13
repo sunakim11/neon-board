@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-13T01:05:50.907Z",
- "generatedAt": "11. 13. 오전 10:05",
- "snapshot": "2026-11-13_1003_monitor",
+ "updatedAt": "2026-11-13T01:13:18.621Z",
+ "generatedAt": "11. 13. 오전 10:13",
+ "snapshot": "2026-11-13_1010_monitor",
  "mode": "execute",
- "cycle": 1284,
+ "cycle": 1285,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
@@ -16,9 +16,9 @@
   "skipped": 0,
   "failed": 0,
   "items": [
-   "네이버 2026-11-14 15:30 60분 커플 케이크페인팅 (2인) 정원 14→13 (잔여 23, 1단위=2명)"
+   "솜씨당 2026-11-19 16:00 [잠실][송파] 왁뿌 아그작 케이크 1box 만들기 (여름데이트 추천) 10→1 (잔여 1)"
   ]
  },
  "capacityMode": "execute",
- "durationSec": 148
+ "durationSec": 145
 }
