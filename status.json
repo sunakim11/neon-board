@@ -1,27 +1,15 @@
 {
- "updatedAt": "2026-11-14T02:24:25.695Z",
- "generatedAt": "11. 14. 오전 11:24",
- "snapshot": "2026-11-14_1121_monitor",
+ "updatedAt": "2026-11-14T02:31:45.210Z",
+ "generatedAt": "11. 14. 오전 11:31",
+ "snapshot": "2026-11-14_1129_monitor",
  "mode": "execute",
- "cycle": 1490,
+ "cycle": 1491,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 4,
-  "ok": 4,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-14 15:30 60분 케이크페인팅 1인 정원 24→22 (잔여 19)",
-   "네이버 2026-11-14 15:30 60분 커플 케이크페인팅 (2인) 정원 12→11 (잔여 19, 1단위=2명)",
-   "네이버 2026-11-14 15:30 키티 스노우볼 케이크 정원 20→19 (잔여 19)",
-   "솜씨당 2026-11-14 15:30 [잠실] 감성 커플케이크 페인팅 2인(60분), 봄데이트 추천 10→9 (잔여 19)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 158
+ "durationSec": 137
 }
