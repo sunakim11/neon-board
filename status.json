@@ -1,15 +1,11 @@
 {
- "updatedAt": "2026-11-16T01:17:34.081Z",
+ "updatedAt": "2026-11-16T01:24:07.208Z",
  "generatedAt": "11. 16. 오전 10:15",
  "snapshot": "2026-11-16_1015_monitor",
  "mode": "execute",
- "cycle": 1942,
+ "cycle": 1943,
  "intervalMin": 5,
  "hot": [],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "lastCapacity": null,
- "capacityMode": "execute",
- "durationSec": 132
+ "lastError": "    if (cl.status !== 200 || !cl.data?.result?.list) throw new Error('class list failed ' + cl.status);\r |                                                            ^\r | Error: class list failed 404\r |     at fetchSssd (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/sssd/fetch.mjs:51",
+ "lastCycleOk": false
 }
