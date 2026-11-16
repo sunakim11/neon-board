@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-16T07:13:01.082Z",
+ "updatedAt": "2026-11-16T07:19:37.582Z",
  "generatedAt": "11. 16. 오전 10:15",
  "snapshot": "2026-11-16_1015_monitor",
  "mode": "execute",
- "cycle": 1996,
+ "cycle": 1997,
  "intervalMin": 5,
  "hot": [],
  "lastError": "    if (cl.status !== 200 || !cl.data?.result?.list) throw new Error('class list failed ' + cl.status);\r |                                                            ^\r | Error: class list failed 404\r |     at fetchSssd (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/sssd/fetch.mjs:51",
