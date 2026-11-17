@@ -1,30 +1,11 @@
 {
- "updatedAt": "2026-11-17T03:03:15.346Z",
- "generatedAt": "11. 17. 오후 12:01",
- "snapshot": "2026-11-17_1201_monitor",
+ "updatedAt": "2026-11-17T03:09:51.368Z",
+ "generatedAt": "11. 17. 오후 12:04",
+ "snapshot": "2026-11-17_1204_auto-refresh",
  "mode": "execute",
- "cycle": 2175,
+ "cycle": 2176,
  "intervalMin": 5,
  "hot": [],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 7,
-  "ok": 7,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-21 14:00 70분 기념일빼낭시에 1인 정원 20→18 (잔여 18)",
-   "네이버 2026-11-21 14:00 70분 감성 휘낭시에 1인 정원 20→18 (잔여 18)",
-   "네이버 2026-11-21 14:00 60분 베이킹클래스 1인 (*1인 1체험 필수) 정원 24→22 (잔여 18)",
-   "네이버 2026-11-21 14:00 70분 토스트 휘낭시에(*NEW) 정원 20→18 (잔여 18)",
-   "네이버 2026-11-21 14:00 70분 봄꽃곰돌이 마들렌 1인 정원 20→18 (잔여 18)",
-   "네이버 2026-11-21 14:00 80분 키티 빼빼로 휘낭시에 정원 20→18 (잔여 18)",
-   "네이버 2026-11-21 14:00 가을저격 키티 마들렌(11월 추천) 정원 20→18 (잔여 18)"
-  ]
- },
- "capacityMode": "execute",
- "durationSec": 123
+ "lastError": "                                                                                                                       ^\r | Error: 솜씨당 로그인 필요 (status 401) — 작가웹 세션 만료\r |     at get (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/sssd/fetch.mjs:94:120)\r |     at async fetchSssd (file:/",
+ "lastCycleOk": false
 }
