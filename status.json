@@ -1,26 +1,15 @@
 {
- "updatedAt": "2026-11-18T02:07:26.299Z",
- "generatedAt": "11. 18. 오전 11:05",
- "snapshot": "2026-11-18_1105_monitor",
+ "updatedAt": "2026-11-18T02:14:01.477Z",
+ "generatedAt": "11. 18. 오전 11:12",
+ "snapshot": "2026-11-18_1112_monitor",
  "mode": "execute",
- "cycle": 2381,
+ "cycle": 2382,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 3,
-  "ok": 3,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-20 16:30 70분 기념일빼낭시에 1인 정원 21→20 (잔여 20)",
-   "네이버 2026-11-20 16:30 60분 베이킹클래스 1인 (*1인 1체험 필수) 정원 21→20 (잔여 20)",
-   "네이버 2026-11-20 16:30 70분 봄꽃곰돌이 마들렌 1인 정원 21→20 (잔여 20)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 112
+ "durationSec": 92
 }
