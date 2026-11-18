@@ -1,24 +1,15 @@
 {
- "updatedAt": "2026-11-18T14:04:40.948Z",
- "generatedAt": "11. 18. 오후 11:03",
- "snapshot": "2026-11-18_2303_monitor",
+ "updatedAt": "2026-11-18T14:11:18.269Z",
+ "generatedAt": "11. 18. 오후 11:09",
+ "snapshot": "2026-11-18_2309_monitor",
  "mode": "execute",
- "cycle": 2489,
+ "cycle": 2490,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 1,
-  "ok": 1,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-19 16:00 70분 탱글촉촉 에그타르트 1인 정원 30→24 (잔여 22)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 103
+ "durationSec": 94
 }
