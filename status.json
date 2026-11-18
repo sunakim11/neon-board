@@ -1,28 +1,15 @@
 {
- "updatedAt": "2026-11-18T14:31:52.552Z",
- "generatedAt": "11. 18. 오후 11:29",
- "snapshot": "2026-11-18_2329_monitor",
+ "updatedAt": "2026-11-18T14:38:39.755Z",
+ "generatedAt": "11. 18. 오후 11:37",
+ "snapshot": "2026-11-18_2337_monitor",
  "mode": "execute",
- "cycle": 2493,
+ "cycle": 2494,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 5,
-  "ok": 5,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-22 14:00 70분 기념일빼낭시에 1인 정원 21→19 (잔여 19)",
-   "네이버 2026-11-22 14:00 60분 베이킹클래스 1인 (*1인 1체험 필수) 정원 21→19 (잔여 19)",
-   "네이버 2026-11-22 14:00 70분 토스트 휘낭시에(*NEW) 정원 20→19 (잔여 19)",
-   "네이버 2026-11-22 14:00 70분 봄꽃곰돌이 마들렌 1인 정원 21→19 (잔여 19)",
-   "네이버 2026-11-22 14:00 가을저격 키티 마들렌(11월 추천) 정원 20→19 (잔여 19)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 124
+ "durationSec": 104
 }
