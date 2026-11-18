@@ -1,15 +1,11 @@
 {
- "updatedAt": "2026-11-18T15:51:53.698Z",
+ "updatedAt": "2026-11-18T15:58:24.317Z",
  "generatedAt": "11. 19. 오전 12:50",
  "snapshot": "2026-11-19_0050_monitor",
  "mode": "execute",
- "cycle": 2505,
+ "cycle": 2506,
  "intervalMin": 5,
  "hot": [],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "lastCapacity": null,
- "capacityMode": "execute",
- "durationSec": 92
+ "lastError": "                                                                                                                       ^\r | Error: 솜씨당 로그인 필요 (status 401) — 작가웹 세션 만료\r |     at get (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/sssd/fetch.mjs:94:120)\r |     at async fetchSssd (file:/",
+ "lastCycleOk": false
 }
