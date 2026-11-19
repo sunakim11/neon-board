@@ -1,15 +1,26 @@
 {
- "updatedAt": "2026-11-19T06:34:28.184Z",
- "generatedAt": "11. 19. 오후 03:32",
- "snapshot": "2026-11-19_1532_monitor",
+ "updatedAt": "2026-11-19T06:41:20.654Z",
+ "generatedAt": "11. 19. 오후 03:39",
+ "snapshot": "2026-11-19_1539_monitor",
  "mode": "execute",
- "cycle": 2638,
+ "cycle": 2639,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 3,
+  "ok": 3,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-21 14:00 70분 하트휘낭시에 정원 20→18 (잔여 18)",
+   "네이버 2026-11-22 14:00 70분 하트휘낭시에 정원 20→19 (잔여 19)",
+   "네이버 2026-11-27 14:30 70분 하트휘낭시에 정원 20→18 (잔여 18)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 105
+ "durationSec": 109
 }
