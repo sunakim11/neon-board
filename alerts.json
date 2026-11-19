@@ -1,4 +1,11 @@
 {
- "updatedAt": "2026-11-19T00:34:32.644Z",
- "active": []
+ "updatedAt": "2026-11-19T00:41:09.153Z",
+ "active": [
+  {
+   "key": "login",
+   "title": "[긴급] 네이버/솜씨당 로그인 끊김 — 작업용 Chrome 에서 재로그인 필요",
+   "since": "2026-11-19T00:41:09.005Z",
+   "detail": "                                                                                                                       ^\r | Error: 솜씨당 로그인 필요 (status 401) — 작가웹 세션 만료\r |     at get (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/sssd/fetch.mjs:94:120)\r |     at async fetchSssd (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/sssd/fetch.mjs:97:16)\r |     at async file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/snapshot.mjs:14:1\r | Node.js v24.19.0\r"
+  }
+ ]
 }
