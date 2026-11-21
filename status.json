@@ -1,15 +1,25 @@
 {
- "updatedAt": "2026-11-21T00:51:21.103Z",
- "generatedAt": "11. 21. 오전 09:49",
- "snapshot": "2026-11-21_0949_monitor",
+ "updatedAt": "2026-11-21T00:58:09.128Z",
+ "generatedAt": "11. 21. 오전 09:56",
+ "snapshot": "2026-11-21_0956_monitor",
  "mode": "execute",
- "cycle": 3019,
+ "cycle": 3020,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": null,
+ "lastCapacity": {
+  "mode": "execute",
+  "count": 2,
+  "ok": 2,
+  "skipped": 0,
+  "failed": 0,
+  "items": [
+   "네이버 2026-11-22 16:00 70분 기념일빼낭시에 1인 정원 23→22 (잔여 22)",
+   "네이버 2026-11-22 16:00 70분 산타 곰돌이마들렌 1인 정원 23→22 (잔여 22)"
+  ]
+ },
  "capacityMode": "execute",
- "durationSec": 95
+ "durationSec": 105
 }
