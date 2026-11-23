@@ -1,24 +1,15 @@
 {
- "updatedAt": "2026-11-23T16:23:53.276Z",
- "generatedAt": "11. 24. 오전 01:22",
- "snapshot": "2026-11-24_0122_monitor",
+ "updatedAt": "2026-11-23T16:30:27.498Z",
+ "generatedAt": "11. 24. 오전 01:28",
+ "snapshot": "2026-11-24_0128_monitor",
  "mode": "execute",
- "cycle": 3594,
+ "cycle": 3595,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 1,
-  "ok": 1,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "네이버 2026-11-24 16:30 60분 달콤쫀득 과일모찌 만들기 정원 8→5 (잔여 5)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 99
+ "durationSec": 92
 }
