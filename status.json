@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-24T00:04:42.694Z",
- "generatedAt": "11. 24. 오전 08:32",
- "snapshot": "2026-11-24_0832_monitor",
+ "updatedAt": "2026-11-24T00:12:32.345Z",
+ "generatedAt": "11. 24. 오전 09:05",
+ "snapshot": "2026-11-24_0905_auto-refresh",
  "mode": "execute",
- "cycle": 3660,
+ "cycle": 3661,
  "intervalMin": 5,
  "hot": [],
- "lastError": "데몬 브라우저가 30초 안에 뜨지 않음",
+ "lastError": "                                                                                                                       ^\r | Error: 솜씨당 로그인 필요 (status 401) — 작가웹 세션 만료\r |     at get (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/sssd/fetch.mjs:103:120)\r |     at async fetchSssd (file:",
  "lastCycleOk": false
 }
