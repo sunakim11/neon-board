@@ -1,15 +1,11 @@
 {
- "updatedAt": "2026-11-23T23:34:41.063Z",
+ "updatedAt": "2026-11-24T00:04:42.694Z",
  "generatedAt": "11. 24. 오전 08:32",
  "snapshot": "2026-11-24_0832_monitor",
  "mode": "execute",
- "cycle": 3659,
+ "cycle": 3660,
  "intervalMin": 5,
  "hot": [],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "lastCapacity": null,
- "capacityMode": "execute",
- "durationSec": 108
+ "lastError": "데몬 브라우저가 30초 안에 뜨지 않음",
+ "lastCycleOk": false
 }
