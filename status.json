@@ -1,15 +1,11 @@
 {
- "updatedAt": "2026-11-25T00:21:57.339Z",
+ "updatedAt": "2026-11-25T00:28:54.399Z",
  "generatedAt": "11. 25. 오전 09:18",
  "snapshot": "2026-11-25_0918_monitor",
  "mode": "execute",
- "cycle": 3822,
+ "cycle": 3823,
  "intervalMin": 5,
  "hot": [],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "lastCapacity": null,
- "capacityMode": "execute",
- "durationSec": 258
+ "lastError": "    at naverGet (C:\\Users\\김선아\\Desktop\\neon\\src\\lib\\api.mjs:5:15)\r |     at fetchNaver (C:\\Users\\김선아\\Desktop\\neon\\src\\naver\\fetch.mjs:55:27)\r |     at async file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/snapshot.mjs:13:1 {\r |   log: []\r | }\r | Node.js v24.19.0\r",
+ "lastCycleOk": false
 }
