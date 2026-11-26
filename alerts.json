@@ -1,4 +1,11 @@
 {
- "updatedAt": "2026-11-26T15:38:59.987Z",
- "active": []
+ "updatedAt": "2026-11-26T15:44:14.809Z",
+ "active": [
+  {
+   "key": "login",
+   "title": "[긴급] 네이버/솜씨당 로그인 끊김 — 작업용 Chrome 에서 재로그인 필요",
+   "since": "2026-11-26T15:44:14.789Z",
+   "detail": "    if (page.url().includes('nid.naver.com')) throw new Error('네이버 로그인 필요 — 파트너센터가 로그인 화면(nidlogin)으로 이동됨. 작업용 Chrome 에서 네이버에 다시 로그인해 주세요.');\r |                                                     ^\r | Error: 네이버 로그인 필요 — 파트너센터가 로그인 화면(nidlogin)으로 이동됨. 작업용 Chrome 에서 네이버에 다시 로그인해 주세요.\r |     at fetchNaver (file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/naver/fetch.mjs:26:53)\r |     at async file:///C:/Users/%EA%B9%80%EC%84%A0%EC%95%84/Desktop/neon/src/snapshot.mjs:13:1\r | Node.js v"
+  }
+ ]
 }
