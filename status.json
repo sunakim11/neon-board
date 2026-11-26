@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-26T20:00:18.274Z",
+ "updatedAt": "2026-11-26T20:05:25.797Z",
  "generatedAt": "11. 26. 오후 06:11",
  "snapshot": "2026-11-26_1811_monitor",
  "mode": "execute",
- "cycle": 4108,
+ "cycle": 4109,
  "intervalMin": 5,
  "hot": [],
  "lastError": "    if (page.url().includes('nid.naver.com')) throw new Error('네이버 로그인 필요 — 파트너센터가 로그인 화면(nidlogin)으로 이동됨. 작업용 Chrome 에서 네이버에 다시 로그인해 주세요.');\r |                                                     ^\r | Error: 네이버 로그인 필요 — 파트너센터가 로그인 화면(nidlogin)으로 이동됨. 작업용 Chrome 에서 네이버에 다시 로그인해 주세요.\r |     at fetch",
