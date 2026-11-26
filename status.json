@@ -1,15 +1,11 @@
 {
- "updatedAt": "2026-11-25T23:41:46.312Z",
+ "updatedAt": "2026-11-26T00:54:07.987Z",
  "generatedAt": "11. 26. 오전 08:39",
  "snapshot": "2026-11-26_0839_monitor",
  "mode": "execute",
- "cycle": 3986,
+ "cycle": 3987,
  "intervalMin": 5,
  "hot": [],
- "lastCycleOk": true,
- "lastError": null,
- "lastActions": null,
- "lastCapacity": null,
- "capacityMode": "execute",
- "durationSec": 115
+ "lastError": "→ C:\\Users\\김선아\\Desktop\\neon\\data\\snapshots\\2026-11-26_0846_monitor | [감정선프로젝트베이킹 잠실송리단길점] 상품 23개 | [감정선프로젝트베이킹 잠실송리단길점] 예약 62건 (2026-11-19~2026-12-26) | [감정선프로젝트 잠실점] 상품 14개",
+ "lastCycleOk": false
 }
