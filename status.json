@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-27T07:59:18.991Z",
- "generatedAt": "11. 27. 오후 04:57",
- "snapshot": "2026-11-27_1657_monitor",
+ "updatedAt": "2026-11-27T08:06:50.006Z",
+ "generatedAt": "11. 27. 오후 05:04",
+ "snapshot": "2026-11-27_1704_monitor",
  "mode": "execute",
- "cycle": 4199,
+ "cycle": 4200,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
@@ -11,5 +11,5 @@
  "lastActions": null,
  "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 111
+ "durationSec": 147
 }
