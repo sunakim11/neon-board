@@ -1,9 +1,9 @@
 {
- "updatedAt": "2026-11-27T02:40:25.514Z",
- "generatedAt": "11. 27. 오전 11:28",
- "snapshot": "2026-11-27_1128_monitor",
+ "updatedAt": "2026-11-27T02:48:34.221Z",
+ "generatedAt": "11. 27. 오전 11:46",
+ "snapshot": "2026-11-27_1146_monitor",
  "mode": "execute",
- "cycle": 4153,
+ "cycle": 4154,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
@@ -12,9 +12,9 @@
  "lastCapacity": {
   "mode": "execute",
   "count": 4,
-  "ok": null,
-  "skipped": null,
-  "failed": null,
+  "ok": 4,
+  "skipped": 0,
+  "failed": 0,
   "items": [
    "솜씨당 2026-12-01 14:30 [잠실] 곰돌이마들렌 6PC , 가을데이트 추천 40→22 (잔여 22)",
    "솜씨당 2026-12-11 14:30 [잠실] 곰돌이마들렌 6PC , 가을데이트 추천 40→12 (잔여 12)",
@@ -23,5 +23,5 @@
   ]
  },
  "capacityMode": "execute",
- "durationSec": 732
+ "durationSec": 146
 }
