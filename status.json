@@ -1,27 +1,15 @@
 {
- "updatedAt": "2026-11-27T02:48:34.221Z",
- "generatedAt": "11. 27. 오전 11:46",
- "snapshot": "2026-11-27_1146_monitor",
+ "updatedAt": "2026-11-27T02:55:30.459Z",
+ "generatedAt": "11. 27. 오전 11:53",
+ "snapshot": "2026-11-27_1153_monitor",
  "mode": "execute",
- "cycle": 4154,
+ "cycle": 4155,
  "intervalMin": 5,
  "hot": [],
  "lastCycleOk": true,
  "lastError": null,
  "lastActions": null,
- "lastCapacity": {
-  "mode": "execute",
-  "count": 4,
-  "ok": 4,
-  "skipped": 0,
-  "failed": 0,
-  "items": [
-   "솜씨당 2026-12-01 14:30 [잠실] 곰돌이마들렌 6PC , 가을데이트 추천 40→22 (잔여 22)",
-   "솜씨당 2026-12-11 14:30 [잠실] 곰돌이마들렌 6PC , 가을데이트 추천 40→12 (잔여 12)",
-   "솜씨당 2026-12-11 16:00 [송파] 빠쟉쫀득 버터떡 6pc 만들기 클래스 10→9 (잔여 9)",
-   "솜씨당 2026-12-11 16:00 [송파] [잠실] 겉바속촉! 실패없는 에그타르트 만들기 데이트 추천 10→9 (잔여 9)"
-  ]
- },
+ "lastCapacity": null,
  "capacityMode": "execute",
- "durationSec": 146
+ "durationSec": 112
 }
